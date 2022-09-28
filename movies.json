@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Brahmāstra: Part One - Shiva",
+      "director": "Ayan Mukerji"
+    },
+    {
+      "title": "Brothera",
+      "director": "Raja",
+      "id": 3
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "plot": "Shiva",
+      "writer": "Ayan Mukerji",
+      "upvotes": 8
+    },
+    {
+      "id": 2,
+      "plot": "Dev",
+      "writer": "Ayan Mukerji",
+      "upvotes": 6
+    },
+    {
+      "id": 3,
+      "plot": "Brahma",
+      "writer": "Ayan Mukerji",
+      "upvotes": 11
+    }
+  ]
+}
